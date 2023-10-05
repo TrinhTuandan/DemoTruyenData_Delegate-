@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\DemoTruyenData\DemoTruyenData\bin\Debug\DemoTruyenData.exe.config
+C:\Users\Admin\Desktop\DemoTruyenData\DemoTruyenData\bin\Debug\DemoTruyenData.exe
+C:\Users\Admin\Desktop\DemoTruyenData\DemoTruyenData\bin\Debug\DemoTruyenData.pdb
+C:\Users\Admin\Desktop\DemoTruyenData\DemoTruyenData\obj\Debug\DemoTruyenData.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DemoTruyenData\DemoTruyenData\obj\Debug\DemoTruyenData.fmLogin.resources
+C:\Users\Admin\Desktop\DemoTruyenData\DemoTruyenData\obj\Debug\DemoTruyenData.Properties.Resources.resources
+C:\Users\Admin\Desktop\DemoTruyenData\DemoTruyenData\obj\Debug\DemoTruyenData.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\DemoTruyenData\DemoTruyenData\obj\Debug\DemoTruyenData.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DemoTruyenData\DemoTruyenData\obj\Debug\DemoTruyenData.exe
+C:\Users\Admin\Desktop\DemoTruyenData\DemoTruyenData\obj\Debug\DemoTruyenData.pdb
+C:\Users\Admin\Desktop\DemoTruyenData\DemoTruyenData\obj\Debug\DemoTruyenData.fmMain.resources
+C:\Users\Admin\Desktop\DemoTruyenData\DemoTruyenData\obj\Debug\DemoTruyenData.fmCha.resources
+C:\Users\Admin\Desktop\DemoTruyenData\DemoTruyenData\obj\Debug\DemoTruyenData.fmCon.resources
